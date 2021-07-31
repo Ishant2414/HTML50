@@ -1,0 +1,26 @@
+
+            h1 {
+                color: brown;
+            }
+            h2, p {
+                text-align: center;
+            }
+            .bossDivision{
+                display: flex;
+                justify-content: space-evenly;
+                flex-wrap: wrap;
+            }
+            .footer{
+                display: flex;
+                justify-content: flex-end;
+
+            }
+            .header {
+                 background-color: aqua;
+                 display: flex;
+                 justify-content : space-between;
+            }
+
+            
+
+            
